@@ -11,6 +11,13 @@ let handler = async (m, { conn, text }) => {
   if (!response.ok) {
     throw `An error occurred: ${json.error}`;
   }
+}body
+  display:flex
+  justify-content:center 
+  align-item:center 
+  hight:100hv
+
+img.src:creative {json.img}
 
   const message = `
 *Name:* ${json.name}
