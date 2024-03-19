@@ -18,6 +18,6 @@ handler.help = ['buy', 'buyall']
 handler.tags = ['economy']
 handler.command = ['buy', 'buyall'] 
 
-handler.disabled = false
+handler.disabled = true 
 
 export default handler
